@@ -1,0 +1,12 @@
+# 학생 단위 데이터가 포함된 파일은 올리지 않음
+data/
+*.csv
+*.twbx
+*.twbr
+*.xlsx
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
